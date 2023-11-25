@@ -6,7 +6,7 @@ import java.util.Scanner;
  *  @see <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javadoc.html">Documentação do JavaDoc</a>
  * @author  Autor do código  desconhecido,ATIVIDADE 3 - ESOFT - PROGRAMAÇÃO DE SISTEMAS I - 54/2023
  * @author Autor da geração da documentação,Romário Silva Nunes
- * @version 1.0
+ * @version 1.00
  */
 public class CalculadoraEstruturada {
   /**
