@@ -1,3 +1,5 @@
+package Calculaddora;
+
 import java.util.Scanner;
 /**
  * Este é um programa de calculadora estruturada em Java.
@@ -7,6 +9,7 @@ import java.util.Scanner;
  * @author  Autor do código  desconhecido,ATIVIDADE 3 - ESOFT - PROGRAMAÇÃO DE SISTEMAS I - 54/2023
  * @author Autor da geração da documentação,Romário Silva Nunes
  * @version 1.00
+ * 
  */
 public class CalculadoraEstruturada {
   /**
